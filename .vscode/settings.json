@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+      "lib/opencv-4110.jar"
+    ]
+  }
+  

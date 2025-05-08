@@ -1,0 +1,55 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "java",
+        "name": "FaceRecognizerWithAttendance",
+        "request": "launch",
+        "mainClass": "FaceRecognizerWithAttendance",
+        "projectName": "Face Recognition_fa2a3d03"
+      },
+      {
+        "type": "java",
+        "name": "FaceRecognizer",
+        "request": "launch",
+        "mainClass": "FaceRecognizer",
+        "projectName": "Face Recognition_fa2a3d03"
+      },
+      {
+        "type": "java",
+        "name": "PrepareDataset",
+        "request": "launch",
+        "mainClass": "PrepareDataset",
+        "projectName": "Face Recognition_fa2a3d03"
+      },
+      {
+        "type": "java",
+        "name": "TrainRecognizer",
+        "request": "launch",
+        "mainClass": "TrainRecognizer",
+        "projectName": "Face Recognition_fa2a3d03"
+      },
+      {
+        "type": "java",
+        "name": "CaptureFacesForTraining",
+        "request": "launch",
+        "mainClass": "CaptureFacesForTraining",
+        "projectName": "Face Recognition_fa2a3d03"
+      },
+      {
+        "type": "java",
+        "name": "CaptureFace",
+        "request": "launch",
+        "mainClass": "CaptureFace",
+        "projectName": "Face Recognition_fa2a3d03"
+      },
+      {
+        "type": "java",
+        "name": "Run Main",
+        "request": "launch",
+        "mainClass": "Main",
+        "vmArgs": "-Djava.library.path=C:/Users/sehaj/Downloads/opencv/build/java/x64"
+      }
+    ]
+  }
+  
