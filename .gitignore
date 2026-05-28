@@ -1,0 +1,16 @@
+# Java Compiled Class Files
+*.class
+bin/
+
+# Dataset folders (containing raw face photos)
+dataset/
+
+# Temporary CSV Exports
+attendance_export_*.csv
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# OpenCV dependency
+lib/
